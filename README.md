@@ -13,3 +13,9 @@ PMJV is a package manager written in java. It is a simple and easy to use packag
 
 ## Legal stuff
 [License](LICENSE.md)
+
+## Getting Started
+
+```shell
+$ bash ./build.sh help
+```
